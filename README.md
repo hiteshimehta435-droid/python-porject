@@ -1,2 +1,0 @@
-python-project
-Fundamental Booster
