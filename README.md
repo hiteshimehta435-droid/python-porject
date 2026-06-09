@@ -43,8 +43,8 @@ WELCOME TO PERSONAL DATA COLLECTOR
 
 
 Enter Your Name: Hitesh
-Enter Your Age: 18
-Enter Your Height (in feet): 5.8
+Enter Your Age: 17
+Enter Your Height (in feet): 6.0
 Enter Your Favourite Number: 7
 
 
@@ -52,10 +52,10 @@ PERSONAL INFORMATION
 
 
 Name           : Hitesh
-Age            : 18
-Height         : 5.8
+Age            : 17
+Height         : 6.0
 Favourite No.  : 7
-Birth Year     : 2007
+Birth Year     : 2009
 Double Fav No. : 14
 
 Thank You For Using Personal Data Collector!
