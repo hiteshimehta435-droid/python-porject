@@ -23,6 +23,9 @@ This project collects personal information from the user, processes it, and disp
 - Age
 - Height
 - Favourite Number
+<img width="1569" height="782" alt="Screenshot 2026-06-23 143723" src="https://github.com/user-attachments/assets/c5ef1ff5-4e38-41ff-8096-64502ac31ca0" />
+
+
 
 ## Processing
 - Calculates Birth Year
