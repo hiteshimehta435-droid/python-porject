@@ -43,6 +43,9 @@ This project collects personal information from the user, processes it, and disp
 - Formatted Strings (f-strings)
 
 ## Sample Output
+<img width="1537" height="410" alt="Screenshot 2026-06-23 143918" src="https://github.com/user-attachments/assets/9ea76dad-96be-44e1-84f1-c545eb83174a" />
+
+
 
 
 WELCOME TO PERSONAL DATA COLLECTOR
