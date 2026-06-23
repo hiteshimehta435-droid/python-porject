@@ -1,3 +1,4 @@
+<img width="750" height="400" alt="image_600x300_67dc1c2e70ed1" src="https://github.com/user-attachments/assets/2f3504a7-63c5-4a2a-83d8-30757849900b" />
 # Personal Data Collector
 
 ## Project Name
